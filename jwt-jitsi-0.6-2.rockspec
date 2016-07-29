@@ -1,5 +1,5 @@
 package = "jwt-jitsi"
-version = "0.6-1"
+version = "0.6-2"
 source = {
   url = "https://github.com/jitsi/lua-jwt/archive/v0.6.tar.gz",
   dir = "lua-jwt-0.6"
